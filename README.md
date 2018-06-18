@@ -8,5 +8,16 @@ var fun = function lang(l) {
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
+  
+  
+  <h1>Shopping List</h1>
+  <ul>
+  <li>bricks</li>
+  <li>sand</li>
+  <li>mortar</li>
+  <li>wheelbarrow</li>
+  <li>shovel<li>
+  <li>gloves</li>
+  </ul>
 end
 
